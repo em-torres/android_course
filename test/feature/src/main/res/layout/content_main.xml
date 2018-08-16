@@ -9,6 +9,11 @@
     tools:showIn="@layout/activity_main">
 
     <TextView
+        android:text="Hola"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:textSize="25sp"/>
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
